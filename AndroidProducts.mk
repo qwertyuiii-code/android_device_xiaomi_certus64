@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/havoc_certus64.mk
+    $(LOCAL_DIR)/lineage_certus64.mk
 
 COMMON_LUNCH_CHOICES := \
-    havoc_certus64-user \
-    havoc_certus64-userdebug \
-    havoc_certus64-eng
+    lineage_certus64-user \
+    lineage_certus64-userdebug \
+    lineage_certus64-eng
