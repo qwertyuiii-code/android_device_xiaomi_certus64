@@ -18,7 +18,7 @@
 $(call inherit-product, device/xiaomi/certus64/device.mk)
 
 # Inherit some common Lineage stuff.
-$(call inherit-product, vendor/havoc/config/common_full_phone.mk)
+$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 # Official tag
 NAD_BUILD_TYPE := OFFICIAL
